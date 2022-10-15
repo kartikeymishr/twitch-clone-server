@@ -1,0 +1,91 @@
+{
+  "streams": [
+    {
+      "title": "This is a new Stream",
+      "description": "This is a description for the new stream holding userId as well",
+      "id": 2
+    },
+    {
+      "title": "Another new Stream",
+      "description": "Testing programmatic navigation",
+      "userId": "111478346304803538721",
+      "id": 3
+    },
+    {
+      "title": "Testing Code Reusability",
+      "description": "Testing to check if nothing is broken!",
+      "userId": "111478346304803538721",
+      "id": 4
+    },
+    {
+      "title": "Some random stream",
+      "description": "Another stream item to populate this list",
+      "userId": "111478346304803538721",
+      "id": 5
+    },
+    {
+      "title": "Streams are fun!",
+      "description": "Creating streams is so much fun! Who knew?",
+      "userId": "111478346304803538721",
+      "id": 6
+    },
+    {
+      "title": "I am bored of Streaming already...",
+      "description": "The words Stream has stopped making sense now.",
+      "userId": "111478346304803538721",
+      "id": 7
+    },
+    {
+      "title": "This is a new Stream",
+      "description": "This is a description for the new stream holding userId as well",
+      "id": 8
+    },
+    {
+      "title": "Testing Code Reusability",
+      "description": "Testing to check if nothing is broken!",
+      "userId": "111478346304803538721",
+      "id": 10
+    },
+    {
+      "title": "Some random stream",
+      "description": "Another stream item to populate this list",
+      "userId": "111478346304803538721",
+      "id": 11
+    },
+    {
+      "title": "I am bored of Streaming already...",
+      "description": "The words Stream has stopped making sense now.",
+      "userId": "111478346304803538721",
+      "id": 13
+    },
+    {
+      "title": "This is a new Stream",
+      "description": "This is a description for the new stream holding userId as well",
+      "id": 14
+    },
+    {
+      "title": "Testing Code Reusability",
+      "description": "Testing to check if nothing is broken!",
+      "userId": "111478346304803538721",
+      "id": 16
+    },
+    {
+      "title": "Some random stream",
+      "description": "Another stream item to populate this list",
+      "userId": "111478346304803538721",
+      "id": 17
+    },
+    {
+      "title": "I am bored of Streaming already...",
+      "description": "The words Stream has stopped making sense now.",
+      "userId": "111478346304803538721",
+      "id": 19
+    },
+    {
+      "title": "I am bored of Streaming already...",
+      "description": "The words Stream has stopped making sense now.",
+      "userId": "111478346304803538721",
+      "id": 20
+    }
+  ]
+}
